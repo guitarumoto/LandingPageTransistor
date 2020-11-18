@@ -1,0 +1,25 @@
+PROVA FRONT-END SOROCABACOM
+
+O QUE SERÁ ANALISADO?
+-Tecnologias utilizadas
+-Performance e agilidade no projeto
+-Realizar dentro do prazo estipulado
+
+TEMPLATE
+https://xd.adobe.com/spec/ae3a652f-3a94-4950-7008-6c9e9d27ab1f-d80b/
+
+TÍTULO DO JOGO: Transistor
+
+PROVA
+-Desenvolver landing page exatamente igual a estrutura do template
+-Respeite o GRID e espaçamento dos objetos
+-Imagens disponíveis no arquivo do XD
+-Validação do formulário (Validar e mostrar a mensagem de sucesso)
+-Tem de ser responsivo pra todos os dispositivos
+
+ENTREGA
+-Compactar arquivos e subir no WeTransfer, envie o link para:
+projetos@sorocabacom.com
+-Criar repositório para que eles possam clonar, realizar commit de cada passo
+-Utilize o site toggl.com para registrar o tempo de desenvolvimento
+-Envie o print do tempo total junto aos arquivos 
